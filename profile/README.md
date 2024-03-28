@@ -1,12 +1,17 @@
-## Hi there 👋
+# 🧳EzTrip
+**나만이 아는 장소를 공유하고 다른 사람이 공유한 장소를 경험해보자!**<br>
+❗**현재는 백엔드 부분만 개발 상태입니다.**
 
-<!--
+<br>
 
-**Here are some ideas to get you started:**
+## 🧑‍🤝‍🧑 팀원 소개
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| <img src =https://avatars.githubusercontent.com/u/117416583 width="120" height="120"> | <img src =https://avatars.githubusercontent.com/u/103429818 width="120" height="120"> |
+|--|--|  
+|Back-End|Back-End|
+|[박상준](https://github.com/itpark1018)|[안윤호](https://github.com/CTR-iNNate)|
+
+<br>
+
+## Notion
+https://blossom-radon-00c.notion.site/17-1-d5807e472f174652bb53b4d299cf631c?pvs=4
